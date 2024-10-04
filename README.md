@@ -16,7 +16,7 @@
 ---
 ## Skills:
 - **Languages**: `Java`, `Python`, `C`, `C++`, `JavaScript`, `Swift`
-- **Frameworks**: `Vue.js`, `Spring`, `PyTorch`, `React.js`
+- **Frameworks**: `Vue.js`, `Spring`, `PyTorch`, `React.js`, `Next.js`
 - **Databases**: `SQL`, `MongoDB`
 - **Tools**: `Git`, `Docker`, `VMWare`, `VSCode`, `Intellij`, `Netbeans`, `Eclipse`, `Wireshark`
 - **Operating Systems**: `Linux`, `macOS`, `Windows`
