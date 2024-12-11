@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://johnnguyenportfolio.com/"><img src="./images/J4Logo.jpeg" alt="JHMejia" width="500"></a>
+  <a href="https://johnnguyenportfolio.com/"><img src="./images/J4Logo.jpeg" alt="JN" width="500"></a>
   <br>
   John Nguyen
   <br>
@@ -11,7 +11,7 @@
 
 - Texas Christian University Alumnus 2024
 - B.S. in Computer Science and Double Minor in Mathematics and Astronomy
-- Honors Laureate with Departmental Honors in Astrnonomy
+- Honors Laureate with Departmental Honors in Astronomy
 - GPA: 3.9/4.0
 ---
 ## Skills:
